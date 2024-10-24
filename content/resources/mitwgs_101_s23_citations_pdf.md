@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: /courses/wgs-101-introduction-to-womens-and-gender-studies-spring-2023/mitwgs_101_s23_citations.pdf
+file: /ol-ocw-studio-app/courses/wgs-101-introduction-to-womens-and-gender-studies-spring-2023/mitwgs_101_s23_citations.pdf
 file_size: 46686
 file_type: application/pdf
 image_metadata:

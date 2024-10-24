@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: /courses/wgs-101-introduction-to-womens-and-gender-studies-spring-2023/mitwgs_101_s23_oralpresentation_ideas.docx
+file: /ol-ocw-studio-app/courses/wgs-101-introduction-to-womens-and-gender-studies-spring-2023/mitwgs_101_s23_oralpresentation_ideas.docx
 file_size: 23840
 file_type: application/vnd.openxmlformats-officedocument.wordprocessingml.document
 image_metadata:
