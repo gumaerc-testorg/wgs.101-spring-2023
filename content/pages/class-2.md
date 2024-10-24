@@ -19,7 +19,7 @@ uid: ccea6bc9-08f9-4a48-b8fc-33d21611bc45
 
 - Jeanne Boydston, “[The Cult of True Womanhood](https://www.pbs.org/kenburns/not-for-ourselves-alone/cult-of-true-womanhood)”
 - Angela Davis, “The Anti Slavery Movement and the Birth of Women’s Rights”
-- Angelina Grimke, “[Human Rights Not Founded on Sex](http://www.iath.virginia.edu/utc/abolitn/abesaegb5t.html)” (1837)
+- Angelina Grimke, “[Human Rights Not Founded on Sex](https://utc.iath.virginia.edu/abolitn/abesaegb5t.html)” (1837)
 
 ### Read for Discussion/HW:
 
