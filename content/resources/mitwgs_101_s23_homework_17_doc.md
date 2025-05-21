@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: /ol-ocw-studio-app/courses/wgs-101-introduction-to-womens-and-gender-studies-spring-2023/mitwgs_101_s23_homework_17.doc
+file: courses/introduction-to-womens-and-gender-studies/mitwgs_101_s23_homework_17.doc
 file_size: 32256
 file_type: application/msword
 image_metadata:
