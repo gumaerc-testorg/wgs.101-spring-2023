@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: courses/introduction-to-womens-and-gender-studies/mitwgs_101_s23_homework16.docx
+file: /ol-ocw-studio-app/courses/wgs-101-introduction-to-womens-and-gender-studies-spring-2023/mitwgs_101_s23_homework16.docx
 file_size: 18310
 file_type: application/vnd.openxmlformats-officedocument.wordprocessingml.document
 image_metadata:
@@ -10,7 +10,7 @@ image_metadata:
   credit: ''
   image-alt: ''
 learning_resource_types:
-- Written Assignments
+- Editable Files
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Document
 title: mitwgs_101_s23_homework16.docx
@@ -21,6 +21,7 @@ video_files:
   video_thumbnail_file: ''
   video_transcript_file: ''
 video_metadata:
+  source: ''
   video_speakers: ''
   video_tags: ''
   youtube_description: ''
