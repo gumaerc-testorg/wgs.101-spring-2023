@@ -28,6 +28,7 @@
   },
   "course_title": "Introduction to Women's and Gender Studies",
   "hide_download": false,
+  "mit_learn_topics": [],
   "course_description": "This course offers an introduction to women\u2019s and gender studies, an interdisciplinary academic field that explores critical questions about the meaning of gender in society. The primary goal of this course is to familiarize students with key issues, questions, and debates in women\u2019s and gender studies scholarship, both historical and contemporary. Gender scholarship critically analyzes themes of gendered performance and power in a range of social spheres, such as law, culture, work, education, medicine, social policy, and the family, and explores the intersection of gender, race, class, and sexuality in individual lives and social institutions.",
   "department_numbers": [
     "WGS"
@@ -42,8 +43,10 @@
     "Lecture Notes",
     "Presentation Assignments",
     "Readings",
-    "Written Assignments with Examples"
+    "Written Assignments with Examples",
+    "Editable Files"
   ],
   "site_uid": "9aa22955-c98a-443e-87d1-cfdd356c8262",
-  "site_short_id": "wgs.101-spring-2023"
+  "site_short_id": "wgs.101-spring-2023",
+  "site_url_path": "courses/wgs-101-introduction-to-womens-and-gender-studies-spring-2023"
 }
