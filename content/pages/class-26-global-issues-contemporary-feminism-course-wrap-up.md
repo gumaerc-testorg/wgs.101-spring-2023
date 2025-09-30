@@ -7,7 +7,7 @@ uid: 5a06aeb9-4cd0-4edc-837a-4a0eaab16c2c
 ---
 ## Read/View
 
-- Susan Moller Okin, [*Is Multiculturalism Bad for Women?*](https://press.princeton.edu/books/paperback/9780691004327/is-multiculturalism-bad-for-women) Princeton University Press, 1999. ISBN: 9780691004327
-- Sheryl WuDunn, TED Talk, “[Our Century’s Greatest Injustice](http://www.ted.com/talks/sheryl_wudunn_our_century_s_greatest_injustice).” July 2010. 
-- Susan Chira, “[The Women’s March Became a Movement. What’s Next?](https://www.nytimes.com/2018/01/20/us/womens-march-metoo.html)” *The New York Times*. January 20, 2018. 
-- Bonnie Chiu, “[2020s Mark a New Era of Feminist Mobilization](https://www.forbes.com/sites/bonniechiu/2020/03/08/2020s-mark-a-new-wave-of-feminist-mobilization/?sh=396c4826485e).” *Forbes*. March 8, 2020.
+- Susan Moller Okin, {{% resource_link "73fdf334-7c88-4d27-958e-0562ae2e17ea" "*Is Multiculturalism Bad for Women?*" %}} Princeton University Press, 1999. ISBN: 9780691004327
+- Sheryl WuDunn, TED Talk, “{{% resource_link "7b773c14-15f2-4956-a8ed-6032a92672e0" "Our Century’s Greatest Injustice" %}}.” July 2010. 
+- Susan Chira, “{{% resource_link "4bbcd3e5-a266-4626-b7dd-1f55211dc357" "The Women’s March Became a Movement. What’s Next?" %}}” *The New York Times*. January 20, 2018. 
+- Bonnie Chiu, “{{% resource_link "7b5ff547-8da4-415a-9d7a-25ecb5305c94" "2020s Mark a New Era of Feminist Mobilization" %}}.” *Forbes*. March 8, 2020.
