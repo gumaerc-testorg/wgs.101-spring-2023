@@ -8,7 +8,7 @@ uid: 7f056c51-8578-4100-9dac-489c6085a994
 ---
 ## Screening
 
-[*Sisters of '77*](https://www.pbs.org/independentlens/documentaries/sistersof77/) 
+{{% resource_link "cca778e0-aaff-4224-b747-ed5f1f5f9e05" "*Sisters of '77*" %}} 
 
 (Cynthia Salzman Mondell and Alan Mondell, 2005.) 
 

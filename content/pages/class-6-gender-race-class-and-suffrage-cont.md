@@ -10,7 +10,7 @@ uid: 543a8660-7841-4d97-900d-c5c3f7bc65ad
 
 {{% resource_link "c3a0a3fc-ad88-462f-b44f-bd7b679de35b" "Class 6 Outline (PDF)" %}} ({{% resource_link "832f227d-2248-4668-aa35-d4851e601434" "DOC" %}})
 
-Screening: [*Ida B. Wells: Passion for Justice*](https://www.kanopy.com/en/product/ida-b-wells-passion-justice) (William Greaves, 1989). 
+Screening: {{% resource_link "d26ad4a3-4b51-4170-8d47-9eaa121de710" "*Ida B. Wells: Passion for Justice*" %}} (William Greaves, 1989). 
 
 ## Homework #5
 
