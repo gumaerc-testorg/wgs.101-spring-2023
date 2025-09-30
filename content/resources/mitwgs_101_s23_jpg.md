@@ -11,11 +11,11 @@ image_metadata:
     rally, and women protesting for workers'' rights in the early 20th century, all
     topics covered in the course. (Image created by the WGS program. Photos: Soujourner
     Truth and the workers'' rights images are in the public domain. The political
-    rally image is by [bones64](https://pixabay.com/photos/womens-march-political-rally-human-2001567/)
-    on Pixabay.)'
+    rally image is by {{% resource_link "a03b6e82-c2e0-432e-851f-684f3f7cf07a" "bones64"
+    %}} on Pixabay.)'
   credit: '(Image created by the WGS program. Photos: Soujourner Truth and the workers''
-    rights images are in the public domain. The political rally image is by [bones64](https://pixabay.com/photos/womens-march-political-rally-human-2001567/)
-    on Pixabay.)'
+    rights images are in the public domain. The political rally image is by {{% resource_link
+    "a03b6e82-c2e0-432e-851f-684f3f7cf07a" "bones64" %}} on Pixabay.)'
   image-alt: A poster for the course WGS.101. In the background is abstract art. The
     text reads WGS.101, and there are three images; Sojourner Truth; a political rally;
     and women in march in the early part of the 20th century
