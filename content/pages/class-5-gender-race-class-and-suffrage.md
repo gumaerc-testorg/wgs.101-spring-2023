@@ -12,7 +12,7 @@ uid: 68f78fa6-138c-47dc-a0e0-088e3f99dbcc
 
 ## Read/View
 
-- Sojourner Truth, “{{% resource_link "b83fe67f-db15-4a2c-b5fd-736b65909605" "Ain’t I a Woman?" %}}” (1851)
-- {{% resource_link "419d161e-fffd-4d79-8fc5-52e2098c2b33" "Performance of Truth’s Speech by Actor Kerry Washington" %}}
-- {{% resource_link "01262fc7-8448-4251-8d7c-cfaaaf7ce19c" "Spoken Word Performance of “AI, Ain’t I a Woman?” by Joy Buolamwini" %}}
-- Anna Julia Cooper, “{{% resource_link "d237be76-157e-454e-99a0-45e351a4c0db" "Woman’s Cause is One and Universal" %}}”
+- Sojourner Truth, “[Ain’t I a Woman?](https://sourcebooks.fordham.edu/mod/sojtruth-woman.asp)” (1851)
+- [Performance of Truth’s Speech by Actor Kerry Washington](https://www.youtube.com/watch?v=Ry_i8w2rdQY)
+- [Spoken Word Performance of “AI, Ain’t I a Woman?” by Joy Buolamwini](https://www.youtube.com/watch?v=HZxV9w2o0FM)
+- Anna Julia Cooper, “[Woman’s Cause is One and Universal](https://www.blackpast.org/african-american-history/1893-anna-julia-cooper-womens-cause-one-and-universal/)”
