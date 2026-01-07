@@ -8,12 +8,12 @@ uid: 5cafcdb9-d37e-47c1-8397-f651c03cc988
 ---
 ## Read
 
-\[FIOT\] = Schneir, Miriam. {{% resource_link "859e2f97-ea14-4692-968e-98bf91404eb9" "*Feminism in Our Time: The Essential Writings, World War II to the Present*" %}}. Vintage, 1994. ISBN: 9780679745082.
+\[FIOT\] = Schneir, Miriam. [*Feminism in Our Time: The Essential Writings, World War II to the Present*](https://www.goodreads.com/book/show/125746.Feminism_in_Our_Time). Vintage, 1994. ISBN: 9780679745082.
 
 - Adrienne Rich, “Compulsory Heterosexuality and Lesbian Existence.” (*FIOT*, pp. 310–326).
-- Nancy Naples, “{{% resource_link "03255f9c-6684-448a-b9c2-a52f61ad74f2" "Queer Parenting in the New Millennium" %}}." *Gender & Society* 18, no. 6 (2004). 
+- Nancy Naples, “[Queer Parenting in the New Millennium](https://journals.sagepub.com/doi/10.1177/0891243204269396)." *Gender & Society* 18, no. 6 (2004). 
 - “Heterosexual Privilege” (article and questionnaire)
-- {{% resource_link "1a0686c8-b276-42f9-832f-516e9ba8708b" "*Goodridge vs. Dept. of Public Health, Mass*." %}}
+- [*Goodridge vs. Dept. of Public Health, Mass*.](http://masscases.com/cases/sjc/440/440mass309.html)
 
 ## In-Class Writing
 

@@ -13,14 +13,14 @@ uid: 6a5627aa-7d9c-4616-835f-effabc8b2639
 
 ## Read
 
-\[FIOT\] = Schneir, Miriam. {{% resource_link "859e2f97-ea14-4692-968e-98bf91404eb9" "*Feminism in Our Time: The Essential Writings, World War II to the Present*" %}}. Vintage, 1994. ISBN: 9780679745082.
+\[FIOT\] = Schneir, Miriam. [*Feminism in Our Time: The Essential Writings, World War II to the Present*](https://www.goodreads.com/book/show/125746.Feminism_in_Our_Time). Vintage, 1994. ISBN: 9780679745082.
 
-- “{{% resource_link "7f10b849-ef0a-47de-9f03-f6945d6b9bb4" "Redstockings Manifesto" %}}” (*FIOT,* pp. 125–129).
+- “[Redstockings Manifesto](https://www.redstockings.org/index.php/rs-manifesto)” (*FIOT,* pp. 125–129).
 - “National Black Feminist Organization Statement of Purpose” (*FIOT,* pp. 171–174).
 - Peggy McIntosh, “White Privilege: Unpacking the Invisible Knapsack.”
 - Maxine Hong Kingston, “No Name Woman” from *The Woman Warrior.* Vintage, 1989. ISBN: 9780679721888.
 - Audre Lorde, “The Master’s Tools Will Never Dismantle the Master’s House.”
-- Roxane Gay, TED Talk, “{{% resource_link "14f16465-43f8-4b4e-b071-01a8d132684e" "Confessions of a Bad Feminist" %}}.”
+- Roxane Gay, TED Talk, “[Confessions of a Bad Feminist](https://www.ted.com/talks/roxane_gay_confessions_of_a_bad_feminist).”
 
 ## Homework #10
 
